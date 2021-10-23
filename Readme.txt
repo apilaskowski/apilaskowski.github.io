@@ -1,4 +1,4 @@
-Thanks for downloading this theme!
+I used following theme.
 
 Theme Name: DevFolio
 Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
